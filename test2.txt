@@ -12,6 +12,16 @@ gdlksagk
 
 dev_1
 
+<<<<<<< HEAD
 dd
 
 sss
+=======
+
+dev_11
+
+dev_111
+
+ddkdsalj
+
+>>>>>>> dev_1
